@@ -40,6 +40,7 @@ El consumo mensual total de la cooperativa mostró variaciones moderadas con cla
 •	Valles en abril–mayo y octubre–noviembre.
 
 Promedios por año:
+
 <img width="583" height="235" alt="image" src="https://github.com/user-attachments/assets/60a53245-37eb-486a-a612-42a6d449c5d8" />
 
 ⚡ En todo el periodo histórico (2022–2025) el consumo máximo se registró en diciembre de 2022 con 3.607.440 kWh, mientras que los valores mínimos se dieron en abril–mayo de 2023–2024 (≈2,65 MWh).
